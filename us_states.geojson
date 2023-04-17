@@ -5293,7 +5293,7 @@
         "STATE_ID": "22",
         "STATE_NAME": "Louisiana",
         "STATE_ABBREV": "LA",
-        "CLUSTERS": "HALO Hydrogen Hub"
+        "CLUSTERS": "HALO Hydrogen Hub; HyVelocity Hub "
       },
       "id": 22
     },
@@ -6777,7 +6777,8 @@
       "properties": {
         "STATE_ID": "48",
         "STATE_NAME": "Texas",
-        "STATE_ABBREV": "TX"
+        "STATE_ABBREV": "TX",
+        "CLUSTERS": "Horizons & Trans Permian Clean Hydrogen Hub; HyVelocity Hub "
       },
       "id": 48
     },
