@@ -333,7 +333,8 @@
       "properties": {
         "STATE_ID": "54",
         "STATE_NAME": "West Virginia",
-        "STATE_ABBREV": "WV"
+        "STATE_ABBREV": "WV",
+        "CLUSTERS": ""
       },
       "id": 54
     },
@@ -5291,7 +5292,8 @@
       "properties": {
         "STATE_ID": "22",
         "STATE_NAME": "Louisiana",
-        "STATE_ABBREV": "LA"
+        "STATE_ABBREV": "LA",
+        "CLUSTERS": "<a href=\"https://h2alo.org/\">HALO Hydrogen Hub</a>"
       },
       "id": 22
     },
@@ -7359,7 +7361,8 @@
       "properties": {
         "STATE_ID": "40",
         "STATE_NAME": "Oklahoma",
-        "STATE_ABBREV": "OK"
+        "STATE_ABBREV": "OK",
+        "CLUSTERS": "HALO Hydrogen Hub"
       },
       "id": 40
     },
@@ -13725,7 +13728,8 @@
       "properties": {
         "STATE_ID": "05",
         "STATE_NAME": "Arkansas",
-        "STATE_ABBREV": "AR"
+        "STATE_ABBREV": "AR",
+        "CLUSTERS": "HALO Hydrogen Hub"
       },
       "id": 5
     },
